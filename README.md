@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/60119368/113144272-069ae280-9268-11eb-9396-548503fabddc.png)
 
 ## 개발환경
-Visual Studio, Oracle
+Visual Studio, C#, Oracle
 
 ## 
 ![image](https://user-images.githubusercontent.com/60119368/121476784-0d7d6880-ca02-11eb-864d-4e1b5b7124a5.png)
